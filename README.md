@@ -20,9 +20,9 @@ CODE ARCHITECTURE
 See <a href=html/developer.html>html/developer.html</a> 
 for all code documentation.
 
-Alternatively, visit http://www.gigablast.com/developer.html
-
-
+Attribution
+--------------
+Original Author : mattdwells@hotmail.com.
 
 CONTACT
 -------
