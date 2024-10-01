@@ -1,4 +1,4 @@
-Oression.com
+XSearch.com
 =========================
 
 An open source web and enterprise search engine and spider/crawler. As can be seen on http://www.gigablast.com/ .
