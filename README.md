@@ -1,4 +1,4 @@
-open-source-search-engine
+Oression.com
 =========================
 
 An open source web and enterprise search engine and spider/crawler. As can be seen on http://www.gigablast.com/ .
@@ -26,9 +26,6 @@ Alternatively, visit http://www.gigablast.com/developer.html
 
 CONTACT
 -------
-
-Contact me for feature requests or help in general. I will work for free
-for good use cases. mattdwells@hotmail.com.
 
 
 BUILD DEPENDENCIES
